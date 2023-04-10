@@ -27,7 +27,7 @@
 # MAGIC 
 # MAGIC # Renaming a Notebook
 # MAGIC 
-# MAGIC Changing the name of a notebook is easy. Click on the name at the top of this page, then make changes to the name. To make it easier to navigate back to this notebook later in case you need to, append a short test string to the end of the existing name.
+# MAGIC Changing the name of a notebook is easy. Click on the name at the top of this page, then make changes to the name. To make it easier to navigate back to this notebook later in case you need to, append a short test string to the end of the existing name. test
 
 # COMMAND ----------
 
